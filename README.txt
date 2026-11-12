@@ -1,16 +1,6 @@
-FRANCIS OJILE PERSONAL DEVELOPER WEBSITE
-
-Files:
-- index.html / profile.html   Pages (SEO, social-share and schema tags are in the <head>)
-- data.js                     Your content. Projects: set image + link here
-- style.css, script.js        Design and behaviour
-- images/                     All images (WebP project shots, photo, og-image.jpg, favicon.png)
-- robots.txt, sitemap.xml     For search engines
-- _headers (Netlify) / .htaccess (Apache)   Speed + security settings
-- 404.html                    Page-not-found page
-
-Adding a project: put the screenshot in /images (WebP or JPG, about 1200px wide), then
-copy a { ... } block in data.js and set image: "images/yourfile.webp" and link: "https://...".
-
-If you move to your own domain, replace https://francisojile.netlify.app with it in:
-index.html, profile.html, sitemap.xml and robots.txt.
+FRANCIS OJILE WEBSITE (flat version: all files in one folder, no images folder)
+Upload every file to the root of your GitHub repository.
+Add a project: upload its screenshot (WebP/JPG, ~1200px wide) next to index.html,
+then copy a { ... } block in data.js and set image: "yourfile.webp" and link: "https://...".
+Live address used in SEO files: https://ojile-francis.github.io/Francis-Ojile
+If you rename the repo or use a custom domain, replace that address in index.html, profile.html, sitemap.xml, robots.txt.
