@@ -48,17 +48,17 @@ window.SITE = {
   // To add a project, copy one { ... } block, paste it below with a comma, and edit it.
   projects: [
     { title: "Optimum Choice Technologies", type: "Business website", text: "Corporate website for an end-to-end IT solutions company, covering networks, software, digital marketing and security.", tags: ["HTML", "CSS", "JavaScript"],
-      image: "images/octech.webp", link: "https://optimumchoicetechnologies.com" },
+      image: "octech.webp", link: "https://optimumchoicetechnologies.com" },
     { title: "OCT ProX", type: "Web platform", text: "A platform that connects clients with verified technology professionals, with escrow-protected payments.", tags: ["Laravel", "Vue.js", "MySQL"],
-      image: "images/octprox.webp", link: "" /* <- paste project URL here */ },
+      image: "octprox.webp", link: "" /* <- paste project URL here */ },
     { title: "D'Auspices Supports Ltd", type: "Business website", text: "A multi-service website for real estate, car sales, luxury car hire, diagnostics and business support in Lagos.", tags: ["HTML", "CSS", "JavaScript"],
-      image: "images/dasl.webp", link: "" /* <- paste project URL here */ },
+      image: "dasl.webp", link: "" /* <- paste project URL here */ },
     { title: "GlobalAura Solutions", type: "Business website", text: "A premium corporate brand site for real estate, recruitment, consulting, interior decoration and events.", tags: ["HTML", "CSS", "JavaScript"],
-      image: "images/globalaura.webp", link: "" /* <- paste project URL here */ },
+      image: "globalaura.webp", link: "" /* <- paste project URL here */ },
     { title: "El-Roi Fedi Hotel", type: "Hospitality website", text: "A hotel website with room showcase, amenities, gallery and online booking enquiries.", tags: ["HTML", "CSS", "JavaScript"],
-      image: "images/elroifedi.webp", link: "https://elroifedihotels.com" },
+      image: "elroifedi.webp", link: "https://elroifedihotels.com" },
     { title: "Francis Ojile Portfolio", type: "Personal website", text: "My own developer portfolio: responsive, fast and easy to update.", tags: ["HTML", "CSS", "JavaScript"],
-      image: "images/portfolio.webp", link: "https://francisojile.netlify.app/" }
+      image: "portfolio.webp", link: "https://francisojile.netlify.app/" }
   ],
 
   // Why work with me (home page)
