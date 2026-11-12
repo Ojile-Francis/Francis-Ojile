@@ -12,5 +12,4 @@ Files:
 Adding a project: put the screenshot in /images (WebP or JPG, about 1200px wide), then
 copy a { ... } block in data.js and set image: "images/yourfile.webp" and link: "https://...".
 
-If you move to your own domain, replace https://francisojile.netlify.app with it in:
 index.html, profile.html, sitemap.xml and robots.txt.
