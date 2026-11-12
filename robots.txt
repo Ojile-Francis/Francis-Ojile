@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://francisojile.netlify.app/sitemap.xml
